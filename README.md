@@ -12,7 +12,7 @@
 </p>
 
 <h1 id="objective">:bulb: Objective</h1>
-</p>This application is a simple simulation of an e-commerce built in React Native and using Context API. The app show a list of products and allows the user to increase or decrease the quantity of products in the cart and calculate the total price. The app use Async Storage to save the cart data.</p>
+</p>This application is a simple simulation of an e-commerce built in React Native and using Context API. The app shows a list of products and allows the user to increase or decrease the quantity of products in the cart and calculate the total price. The app use Async Storage to save the cart data.</p>
 
 <h1 id="technologies">:rocket: Technologies</h1>
 
