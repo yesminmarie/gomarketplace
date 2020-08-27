@@ -1,6 +1,6 @@
 <h1 align="center">GoMarketplace</h1>
 <p align="center">
-<img src="screenshot/preview.gif" alt="GoMarketplace"/>
+<img width="60%" src="screenshot/preview.gif" alt="GoMarketplace"/>
 </p>
 
 <p align="center">This project has been built on the eighth challange of the Bootcamp GoStack from Rocketseat.</p>
